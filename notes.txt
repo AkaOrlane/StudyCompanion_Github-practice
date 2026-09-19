@@ -1,0 +1,6 @@
+GitHub Practice
+
+This repository is for practicing Git and GitHub Desktop.
+
+Team: Study Companion
+Course: Software Development Capstone 1
