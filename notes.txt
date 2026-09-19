@@ -4,3 +4,4 @@ This repository is for practicing Git and GitHub Desktop.
 
 Team: Study Companion
 Course: Software Development Capstone 1
+I am learning how to use commits, branches, pushes, and merges with GitHub.
