@@ -1,0 +1,5 @@
+GitHub Branch Practice
+
+This file was created on the feature-practice branch.
+
+I am learning how branches allow developers to work on changes separately from the main branch.
